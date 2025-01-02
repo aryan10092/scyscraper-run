@@ -6,7 +6,7 @@ Skyscraper Run is an engaging endless runner game where players control a charac
 
 ## Demo
 
-You can play the game live [here]([https://aryan10092.github.io/scyscraper-run/]).
+You can play the game live [here](https://aryan10092.github.io/scyscraper-run/).
 
 ## Features
 
